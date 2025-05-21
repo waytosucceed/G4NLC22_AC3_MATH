@@ -1,0 +1,92 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which fraction matches the given figure?<br><img width='45%' src='./question/1.png'>",
+    "options": ["18/12", "18/6", "6/12", "18/24"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which fraction matches the given figure?<br><img width='45%' src='./question/2.png'>",
+    "options": ["2/12", "4/12", "4/6", "6/4"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which fraction matches the given figure?<br><img width='45%' src='./question/3.png'>",
+    "options": ["9/7", "3/7", "8/7", "4/7"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which fraction matches the given figure?<br><img width='45%' src='./question/4.png'>",
+    "options": ["9/12", "6/9", "3/12", "3/9"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Which fraction matches the given figure?<br><img width='45%' src='./question/5.png'>",
+    "options": ["9/8", "3/8", "7/8", "3/6"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Which fraction matches the given figure?<br><img width='45%' src='./question/6.png'>",
+    "options": ["2/9", "5/9", "3/9", "5/3"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Find the total by adding:<br><img width='45%' src='./question/7.png'>",
+    "options": ["1.png", "2.png", "3.png", "4.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Find the total by adding the given fractions:<br><img width='45%' src='./question/8.png'>",
+    "options": ["5.png", "6.png", "7.png", "8.png"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Which fraction represents the below given model?<br><img width='65%' src='./question/9.png'>",
+    "options": ["9.png", "10.png", "11.png", "12.png"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Find the difference by subtracting the given fractions:<br><img width='45%' src='./question/10.png'>",
+    "options": ["6/9", "3/9", "2/9", "1/9"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Find the difference by subtracting the given fractions:<br><img width='45%' src='./question/11.png'>",
+    "options": ["1/8", "8/9", "9/8", "7/8"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q12",
+    "question": "What is the total of given fractions?<br><img width='15%' src='./question/12.png'>",
+    "options": ["13.png", "14.png", "15.png", "16.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "What is the total after combining both fractions? <br><img width='15%' src='./question/13.png'>",
+    "options": ["17.png", "18.png", "19.png", "20.png"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q14",
+    "question": "What is the difference between the given fractions? <br><img width='15%' src='./question/14.png'>",
+    "options": ["21.png", "22.png", "23.png", "24.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "question": "Add and find the total: <br><img width='15%' src='./question/15.png'>",
+    "options": ["25.png", "26.png", "27.png", "28.png"],
+    "correct": 2
+  }
+]
