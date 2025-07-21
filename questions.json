@@ -57,7 +57,7 @@
     "questionNo": "Q10",
     "question": "Find the difference by subtracting the given fractions:<br><img width='45%' src='./question/10.png'>",
     "options": ["6/9", "3/9", "2/9", "1/9"],
-    "correct": 2
+    "correct": 0
   },
   {
     "questionNo": "Q11",
